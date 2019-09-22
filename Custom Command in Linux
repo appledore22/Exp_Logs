@@ -1,0 +1,8 @@
+Creating a custom command is as simple as writing shell scripts.
+1. Create a shell script and name the file with the command you want.
+  Ex - In my_command.sh 'my_command' is what you'll type in terminal to execute the command.
+2. Executing shell script requires sudo access. Use chmod
+3. Once the shell script is done then copy the content of the script in a new file called 'my_command'. Dont give it any extension
+4. Copy the 'my_command' file to /usr/local/bin/.Requires sudo access.
+5. Use chmod in /usr/local/bin to give exexution access to 'my_command'.
+6. You can now exectute the command from anywhere in the system.
