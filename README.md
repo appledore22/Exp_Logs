@@ -1,2 +1,2 @@
 # Exp_Logs
-Experiences of problems &amp; solution that I encountered
+Log of solutions for the problems that I encountered in coding.
